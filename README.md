@@ -17,7 +17,7 @@ For more detailed information on TypeScript, React, Node.js, and other web devel
 - [Official Express.js documentation](https://expressjs.com/).
 - [Official MongoDB documentation](https://docs.mongodb.com/).
 - [Official Next.js documentation](https://nextjs.org/docs/).
-- [Official Redux documentation](https://redux.js.org/).
+- [Official Redux documentation](https://redux.js.org/introduction/getting-started).
 
 Note that these links are just a starting point and there are many other resources available online.
 
