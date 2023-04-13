@@ -11,13 +11,13 @@ Welcome to my personal web development reference toolkit repository! This is a c
 ## More Information
 For more detailed information on TypeScript, React, Node.js, and other web development topics, visit the official documentation:
 
-[Official TypeScript documentation](https://www.typescriptlang.org/docs/).
-[Official React documentation](https://reactjs.org/docs/).
-[Official Node.js documentation](https://nodejs.org/en/docs/).
-[Official Express.js documentation](https://expressjs.com/).
-[Official MongoDB documentation](https://docs.mongodb.com/).
-[Official Next.js documentation](https://nextjs.org/docs/).
-[Official Redux documentation](https://redux.js.org/).
+- [Official TypeScript documentation](https://www.typescriptlang.org/docs/).
+- [Official React documentation](https://reactjs.org/docs/).
+- [Official Node.js documentation](https://nodejs.org/en/docs/).
+- [Official Express.js documentation](https://expressjs.com/).
+- [Official MongoDB documentation](https://docs.mongodb.com/).
+- [Official Next.js documentation](https://nextjs.org/docs/).
+- [Official Redux documentation](https://redux.js.org/).
 
 Note that these links are just a starting point and there are many other resources available online.
 
